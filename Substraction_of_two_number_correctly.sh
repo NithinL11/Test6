@@ -7,7 +7,7 @@ echo "result is: $RESULT"
 
 #calculated statement
 if [[ $RESULT -eq 2 ]]; then
-  echo "result is 2"
+  echo "Sucess"
 else
-  echo "wrong calculation"
+  echo "Failed"
 fi
